@@ -4,7 +4,7 @@
 
 ## 로컬 개발환경 구성
 
-1. <pre>git clone https://github.com/KGESH/hanium-redis.git</pre>
+1. <pre>git clone https://github.com/junni1111/hanium-redis.git</pre>
 
 2. <pre>cd hanium-redis</pre>
 
